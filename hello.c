@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<curl/curl.h>
 
-int main()
+int main(void)
 {
 CURL *curl;
 CURLcode res;
